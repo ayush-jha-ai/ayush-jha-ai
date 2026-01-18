@@ -3,25 +3,29 @@
 I’m a student, entrepreneur, and tech innovator focused on **AI-driven products, software development, and practical applications of technology in learning and business**.  
 I’m the **CEO & Co-founder of Resseti**, developing flagship AI products: **Lumina (AI Tutor)** and **Ascenda (AI Business & Life Coach)**.
 
----
+<details>
+<summary>🚀 About Me</summary>
 
-## 🚀 About Me
 - Building AI systems, web applications, and automation tools.  
 - Founder & tech lead at a pre-seed startup focused on AI innovation.  
 - Currently taking **A-Levels in Mathematics, Further Maths, Computer Science, and Economics**.  
 - Passionate about **learning, entrepreneurship, and solving real-world problems with technology**.
 
----
+</details>
 
-## 💻 Skills
+<details>
+<summary>💻 Skills</summary>
+
 **Languages:** Python, C, JavaScript, SQL  
 **AI / ML:** LLMs, NLP, TensorFlow, PyTorch basics  
 **Web / Tools:** Flask, FastAPI, Git, Docker, APIs  
 **Other:** Data analysis, automation, AI product development  
 
----
+</details>
 
-## 🌟 Projects & Highlights
+<details>
+<summary>🌟 Projects & Highlights</summary>
+
 | Project | Description |
 |---------|-------------|
 | **[Lumina – AI Tutor](#)** | Adaptive tutoring platform using Python and LLMs to help students learn effectively. |
@@ -30,18 +34,20 @@ I’m the **CEO & Co-founder of Resseti**, developing flagship AI products: **Lu
 
 *(More projects coming soon… stay tuned!)*
 
----
+</details>
 
-## 📈 GitHub Stats
+<details>
+<summary>📈 GitHub Stats</summary>
+
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-jha-ai&show_icons=true&theme=default&count_private=true&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-jha-ai&layout=compact&theme=default)
 
----
+</details>
 
-## 📫 Connect with Me
+<details>
+<summary>📫 Connect with Me</summary>
+
 - LinkedIn: [linkedin.com/in/ayushjharesseti](#)  
 - Email: ajha@resseti.com
 
----
-
-
+</details>
