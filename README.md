@@ -8,7 +8,7 @@ I’m the **CEO & Co-founder of Resseti**, developing flagship AI products: **Lu
 
 - Building AI systems, web applications, and automation tools.  
 - Founder & tech lead at a pre-seed startup focused on AI innovation.  
-- Currently taking **A-Levels in Mathematics, Further Maths, Computer Science, and Economics**.  
+- Currently taking **A-Levels in Mathematics, Further Maths, Computer Science, and Physics**.  
 - Passionate about **learning, entrepreneurship, and solving real-world problems with technology**.
 
 </details>
