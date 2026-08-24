@@ -46,7 +46,7 @@ process error apart from an actual knowledge gap. It's not another AI tutor bolt
 
 <div align="center">
 
-## `~/` toolbox
+## Toolbox
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,python,git,github,vscode,raspberrypi,html,css&perline=13" alt="tech stack">
 
@@ -56,7 +56,7 @@ process error apart from an actual knowledge gap. It's not another AI tutor bolt
 
 <div align="center">
 
-## `~/` skill radar
+## Skill Radar
 
 <table>
 <tr>
