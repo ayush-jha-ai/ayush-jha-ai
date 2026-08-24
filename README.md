@@ -48,7 +48,7 @@ process error apart from an actual knowledge gap. It's not another AI tutor bolt
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css,python&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,python,git,github,vscode,raspberrypi,html,css&perline=13" alt="tech stack">
 
 </div>
 
