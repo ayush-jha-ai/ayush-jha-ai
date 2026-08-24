@@ -27,19 +27,20 @@
 
 ---
 
-## `~/` whoami
+## Who Am I
 
 ```console
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
-
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+Hi, I'm **Ayush**. I'm the founder and CEO of **[Resseti](https://resseti.com)**, an AI edtech startup building
+**Lumina**, a diagnostic engine that maps a student's working to mark-scheme logic (M1/A1/B1) so we can tell a
+process error apart from an actual knowledge gap. It's not another AI tutor bolted onto a curriculum.
+ 
+- Currently building **Lumina** on `Next.js` / `React`, deployed on `Vercel`
+- Also **VC in Residence at LVLUP Ventures** (scouting and warm intros) and co-organising **TEDxCambridgeYouth**
+- Host of **The Builder's Mind**, a podcast for founders, investors and builders
+- Fun fact: **the idea for Lumina came from reverse-engineering GCSE mark schemes instead of just revising them**
 
 <br>
 
@@ -47,7 +48,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css,python&perline=11" alt="tech stack">
 
 </div>
 
