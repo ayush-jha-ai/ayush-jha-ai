@@ -38,7 +38,7 @@ Hi, I'm **Ayush**. I'm the founder and CEO of **[Resseti](https://resseti.com)**
 process error apart from an actual knowledge gap. It's not another AI tutor bolted onto a curriculum.
  
 - Currently building **Lumina** on `Next.js` / `React`, deployed on `Vercel`
-- Also **VC in Residence at LVLUP Ventures** (scouting and warm intros) and co-organising **TEDxCambridgeYouth**
+- Also **Venture Scout at LVLUP Ventures** (scouting and warm intros) and co-organising **TEDxCambridgeYouth**
 - Host of **The Builder's Mind**, a podcast for founders, investors and builders
 - Fun fact: **the idea for Lumina came from reverse-engineering GCSE mark schemes instead of just revising them**
 
@@ -183,12 +183,12 @@ process error apart from an actual knowledge gap. It's not another AI tutor bolt
 
 <sub>
 
-| project | live | stack |
-|---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| project | stack |
+|---|---|
+| **[dossier](https://github.com/gargibhardwaj24/dossier)** | `JavaScript` `GSAP` `Lenis` |
+| **[Sage](https://github.com/gargibhardwaj24/Sage)** | `JavaScript` |
+| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | `Next.js` `Prisma` `TypeScript` |
+| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | `JavaScript` `Gemini` |
 
 </sub>
 
