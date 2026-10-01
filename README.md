@@ -30,7 +30,7 @@
 ## Who Am I
 
 ```console
-$ cat about.txt
+$ code about.txt
 ```
 
 Hi, I'm **Ayush**. I'm the founder and CEO of **[Resseti](https://resseti.com)**, an AI edtech startup building
