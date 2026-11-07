@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=ayush-jha-ai&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=cambridge%2C%20uk&v=readme-reference-2" width="100%" alt="Ayush Jha profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=ayush-jha-ai&theme=neon&role=ML%2C%20Engineer&location=cambridge%2C%20uk&v=readme-reference-2" width="100%" alt="Ayush Jha profile banner" />
 </p>
 
 <p align="center">
